@@ -1,0 +1,26 @@
+c:\users\howra pishbin\documents\visual studio 2010\Projects\custom\custom\obj\x86\Debug\custom.Properties.Resources.resources
+c:\users\howra pishbin\documents\visual studio 2010\Projects\custom\custom\obj\x86\Debug\View.PanelEnterLicense.resources
+c:\users\howra pishbin\documents\visual studio 2010\Projects\custom\custom\obj\x86\Debug\view.PanelExpert.resources
+c:\users\howra pishbin\documents\visual studio 2010\Projects\custom\custom\obj\x86\Debug\View.PanelIssuanceLicense.resources
+c:\users\howra pishbin\documents\visual studio 2010\Projects\custom\custom\obj\x86\Debug\View.PanelLicenseValidationResult.resources
+c:\users\howra pishbin\documents\visual studio 2010\Projects\custom\custom\obj\x86\Debug\view.PanelLogin.resources
+c:\users\howra pishbin\documents\visual studio 2010\Projects\custom\custom\obj\x86\Debug\custom.csproj.GenerateResource.Cache
+c:\users\howra pishbin\documents\visual studio 2010\Projects\custom\custom\bin\Debug\custom.exe
+c:\users\howra pishbin\documents\visual studio 2010\Projects\custom\custom\bin\Debug\custom.pdb
+c:\users\howra pishbin\documents\visual studio 2010\Projects\custom\custom\obj\x86\Debug\custom.exe
+c:\users\howra pishbin\documents\visual studio 2010\Projects\custom\custom\obj\x86\Debug\custom.pdb
+C:\Users\jedfvhe\Documents\Visual Studio 2012\Projects\custom\custom\bin\Debug\custom.exe
+C:\Users\jedfvhe\Documents\Visual Studio 2012\Projects\custom\custom\bin\Debug\custom.pdb
+C:\Users\jedfvhe\Documents\Visual Studio 2012\Projects\custom\custom\obj\x86\Debug\custom.csproj.GenerateResource.Cache
+C:\Users\jedfvhe\Documents\Visual Studio 2012\Projects\custom\custom\obj\x86\Debug\custom.exe
+C:\Users\jedfvhe\Documents\Visual Studio 2012\Projects\custom\custom\obj\x86\Debug\custom.pdb
+C:\Users\jedfvhe\Documents\Visual Studio 2012\Projects\custom\custom\obj\x86\Debug\domain.Properties.Resources.resources
+C:\Users\jedfvhe\Documents\Visual Studio 2012\Projects\custom\custom\bin\Debug\Data.mdf
+C:\Users\jedfvhe\Documents\Visual Studio 2012\Projects\custom\custom\bin\Debug\Data_log.LDF
+C:\Users\jedfvhe\Documents\Visual Studio 2012\Projects\custom\custom\obj\x86\Debug\view.PanelAdmin.resources
+C:\Users\jedfvhe\Documents\Visual Studio 2012\Projects\custom\custom\obj\x86\Debug\view.PanelExpert.resources
+C:\Users\jedfvhe\Documents\Visual Studio 2012\Projects\custom\custom\obj\x86\Debug\view.PanelAgent.resources
+C:\Users\jedfvhe\Documents\Visual Studio 2012\Projects\custom\custom\obj\x86\Debug\view.PanelLogin.resources
+C:\Users\jedfvhe\Documents\Visual Studio 2012\Projects\custom\custom\obj\x86\Debug\view.licenses.resources
+C:\Users\jedfvhe\Documents\Visual Studio 2012\Projects\custom\custom\obj\x86\Debug\view.products.resources
+C:\Users\jedfvhe\Documents\Visual Studio 2012\Projects\custom\custom\obj\x86\Debug\custom.csprojResolveAssemblyReference.cache
